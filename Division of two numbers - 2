@@ -1,0 +1,6 @@
+a = input()
+b = input()
+A = int(a)
+B = int(b)
+div =int(A / B) 
+print(div)
