@@ -1,0 +1,4 @@
+word = input()
+first_word = len(word)
+second_word = first_word / 2
+print(second_word)
