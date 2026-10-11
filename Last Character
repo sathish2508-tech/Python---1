@@ -1,0 +1,4 @@
+word = input()
+length = len(word)
+last_word = length - 1
+print(word[last_word])
