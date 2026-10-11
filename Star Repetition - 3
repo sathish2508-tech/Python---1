@@ -1,0 +1,5 @@
+word = input()
+first_letter = len(word)
+center = len(word) - 2
+last_letter = len(word) - 1
+print(word[0] + "*" * center + word[last_letter])
