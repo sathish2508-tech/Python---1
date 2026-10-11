@@ -1,0 +1,4 @@
+first_word = input()
+second_word = input()
+print(second_word)
+print(first_word)
