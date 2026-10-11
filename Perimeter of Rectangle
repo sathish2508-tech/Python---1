@@ -1,0 +1,6 @@
+a = input()
+b = input()
+length = int(a)
+breadth = int(b)
+perimeter = 2 * (length + breadth)
+print(perimeter)
