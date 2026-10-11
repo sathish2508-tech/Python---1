@@ -1,0 +1,6 @@
+word = input()
+first_letter = word[0]
+second_letter = len(word)
+least = len(word) - 1
+result = (first_letter + ("*" * least))
+print(result)
