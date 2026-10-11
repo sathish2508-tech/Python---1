@@ -1,0 +1,6 @@
+a = input()
+b = input()
+A = float(a)
+B = float(b)
+sub = A - B 
+print(sub)
