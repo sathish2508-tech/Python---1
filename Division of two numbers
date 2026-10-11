@@ -1,0 +1,6 @@
+a = input()
+A = float(a)
+b = input()
+B = float(b)
+div = A / B
+print(div)
