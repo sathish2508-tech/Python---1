@@ -1,0 +1,5 @@
+a = input()
+Girls = int(a)
+Per = 100
+Boys = Per - Girls
+print(Boys)
